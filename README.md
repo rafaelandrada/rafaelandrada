@@ -6,7 +6,7 @@
 
 - 🦄 &nbsp; Explorando novas tecnologias
 - 👽 &nbsp; Em busca de conhecimento
-
+tentando entender o github*
   
 </div>
 &nbsp;
